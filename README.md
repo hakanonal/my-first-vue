@@ -1,5 +1,7 @@
 # my-first-vue
 
+This repo is for my learning environment to how to utilize the [github pages](https://pages.github.com)
+
 ## Project setup
 ```
 yarn install
